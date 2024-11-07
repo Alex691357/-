@@ -71,22 +71,53 @@
 ## 利用已有数据进行可视化创建
 
 1. **折线图**：
-   - 下图展示了 2024 年 1 月至 6 月的实际月度缺陷数量，并对未来 6 个月进行了预测。
+   - 2024 年 1 月至 6 月的月度缺陷数量及未来 6 个月的预测。
    - ![image](https://github.com/user-attachments/assets/062a47b3-7798-40b3-985d-15099957b759)
-  
+
 2. **切片器**：
-   - 下图展示了用于数据筛选的三个切片器，分别为 **Month（月份）**、**Severity（严重程度）** 和 **Inspection Method（检测方法）**。
-     ![image](https://github.com/user-attachments/assets/e788afa4-8fab-453e-bf49-24566084f05f)
+   - Month（月份）、Severity（严重程度）和 Inspection Method（检测方法）的数据筛选器。
+   - ![image](https://github.com/user-attachments/assets/e788afa4-8fab-453e-bf49-24566084f05f)
 
 3. **卡片视图**：
-   - 下图展示了三个卡片视图，分别显示了 **Average Repair Cost（平均修理成本）**、**Lowest Repair Cost（最低修理成本）** 和 **Highest Repair Cost（最高修理成本）**。
+   - 显示 Average Repair Cost（平均修理成本）、Lowest Repair Cost（最低修理成本）和 Highest Repair Cost（最高修理成本）。
    - ![image](https://github.com/user-attachments/assets/0b8c4939-27a6-4b62-be1a-ea6dbb97866f)
-     
-4. **条形图：Inspection Method（按 Defect Type）**：
+
+4. **条形图**：
+   - 检测方法和缺陷类型的关系。
    - ![image](https://github.com/user-attachments/assets/32cd5a98-82d2-4aae-b7f8-f5132936d704)
 
-5. **柱状图 2：Defect Count by Severity**：
+5. **柱状图**：
+   - 按严重程度统计的缺陷数量。
    - ![image](https://github.com/user-attachments/assets/94256c75-59c6-435e-93bf-a38bbe16460e)
+
+6. **柱状图**：
+   - 按严重程度统计的总修理成本。
+   - ![image](https://github.com/user-attachments/assets/016212d0-9ea8-436b-9d2e-26eb3b8d45f9)
+
+7. **表格**：
+   - 按产品 ID 统计的总修理成本。
+   - ![image](https://github.com/user-attachments/assets/c7edd56c-b187-4d91-944b-55755ef684e7)
+
+8. **表格**：
+   - 按产品 ID 统计的缺陷数量。
+   - ![image](https://github.com/user-attachments/assets/2ab8b6c3-7682-4200-8722-47911e7f1a6a)
+
+9. **矩阵**：
+   - 按缺陷类型和位置的缺陷分布。
+   - ![image](https://github.com/user-attachments/assets/9ebb90f1-aea3-411e-9212-3eea72b43608)
+
+10. **饼图**：
+   - 按严重程度的缺陷分布。
+   - ![image](https://github.com/user-attachments/assets/7965015e-3ebb-4ed2-8c29-81170dd72e89)
+
+
+
+
+
+
+
+
+
 
 
 
