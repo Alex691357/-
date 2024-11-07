@@ -9,6 +9,16 @@
    - 在 Kaggle 网站上，通过搜索 **manufacturing** 等关键词。
    - ![image](https://github.com/user-attachments/assets/baf82345-ef65-4f6f-9642-1e057257b5cd)
    - 在筛选里选择**datasets**。
-2. **下载数据**：
-   - 进入数据集页面后，点击 **“Download”** 下载到本地。
-  该数据集包含了制造业中有关产品缺陷的数据，如缺陷类型、检测方法、修理成本和发现日期等信息。
+     
+2. **确认数据集信息**：
+   - 在选择数据集之前，查看数据集的描述和字段信息，以确保它符合项目需求。本数据集包含以下关键字段：
+     - `product_id`：产品的唯一标识符。
+     - `defect_type`：缺陷的类型。
+     - `inspection_method`：用于检测缺陷的方法。
+     - `repair_cost`：修理该缺陷的费用。
+     - `date`：缺陷被检测到的日期。
+   - ![image](https://github.com/user-attachments/assets/53a985b9-fe1c-4a5c-8e70-626575b710ce)
+
+3. **下载数据**：
+   - 进入数据集页面后，选择所需的文件（如 CSV 文件），点击 **“Download”** 按钮下载到本地。
+  
